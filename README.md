@@ -10,6 +10,7 @@ Since Apple disabled Target Display Mode (TDM) by using Thunderbolt 2 after macO
 
 
 
+
 # Support (IMPORTANT)
 
 This tool is dedicated to iMac 27 inch, released from 2012 to 2014. All newer, and every 21.5 inch iMac is unsupported hardwarely. (Even, 2012 - 2014.)
@@ -17,12 +18,16 @@ This tool is dedicated to iMac 27 inch, released from 2012 to 2014. All newer, a
 
 | iMac Model | Support  | Additional Information|
 | ------------- | ------------- | ------------- |
-| iMac 27", Mid 2011  | Yes.    | By using Thunderbolt 1 Port, fully supports TDM.  |
-| iMac 27", Late 2012  | Yes. | Supported, using Thundebolt 2 port. |
-| iMac 27", Late 2013  | Yes.  | Supported, using Thundebolt 2 port.  |
-| iMac 27", Late 2014  | Yes.  | Supported, using Thundebolt 2 port.  |
-| iMac 27", Late 2015  | No.  | TDM is hardwarely disabled by Apple.  |
+| iMac 27", Mid 2011  | Yes.    | By using Thunderbolt 1 Port, fully supports TDM to connect iMac.  |
+| iMac 27", Late 2012  | Yes. | Supported, using Thundebolt 2 port possible to connect iMac. |
+| iMac 27", Late 2013  | Yes.  | Supported, using Thundebolt 2 port possible to connect iMac.  |
+| iMac 27", Late 2014  | Yes.  | Supported, using Thundebolt 2 port possible to connect iMac.  |
+| iMac 27", Late 2015  | No.  | TDM is hardwarely disabled by Apple, impossible to connect iMac.  |
 
 All 21.5 inch iMacs are unsupported hardwarely. Even, 2012 - 2014.
 
-# OS Support
+# Requirements
+
+- **Minimal Requirements:** macOS Catalina 10.15.
+- **Minimal Supported Mac:** iMac 27", Mid 2011
+  
